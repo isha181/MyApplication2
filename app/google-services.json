@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915420322957",
+    "firebase_url": "https://booklet-e5a48.firebaseio.com",
+    "project_id": "booklet-e5a48",
+    "storage_bucket": "booklet-e5a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915420322957:android:0c9a8ba156f139ca9ed6c4",
+        "android_client_info": {
+          "package_name": "com.ashi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915420322957-4nentcraue8u8vcoroqtraot2hio12i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ygdGPDQElpJxGrjIj5_HWpFA0Pq9OUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915420322957-4nentcraue8u8vcoroqtraot2hio12i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

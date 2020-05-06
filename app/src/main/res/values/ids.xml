@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signInButton" type="id" />
+    <item name="signOutButton" type="id" />
+    <item name="disconnectButton" type="id" />
+    <item name="context_main_layout" type="id" />
+    <item name="signOutAndDisconnect" type="id" />
+</resources>
